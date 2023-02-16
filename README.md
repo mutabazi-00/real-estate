@@ -42,11 +42,11 @@ List the ready features here:
 
 ## Screenshots
 ![screenshot](./screenshot/IMG-20230216-014832.jpg)
-<!-- If you have screenshots you'd like to share, include them here. -->`
+
 
 
 ## Project Status
-Project is: _in progress_ / 
+Project is  _in progress_ / 
 We are still working on it.
 
 
