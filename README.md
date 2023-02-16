@@ -29,10 +29,8 @@ Our app is designed to be user-friendly and accessible, making it easy for users
 • View detailed property listings, including photos, descriptions, and other relevant information
 
 ## Technologies Used
-- Next Js - version 1.0
-- Chakra UI 
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- next - version 13.1.6
+- Chakra-ui/react - version 2.4.9
 
 
 ## Features
