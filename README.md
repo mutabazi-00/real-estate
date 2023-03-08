@@ -72,7 +72,7 @@ To do:
 
 
 ## Contact
-Created by [@Mutabazi Jean de Dieu](mailto:mutajean30@gmail.com/) & [@Ishimwe Jean Baptiste](https://linktr.ee/hbapte/) - feel free to contact us!
+Created by [LinkedIn@Mutabazi Jean de Dieu - LinkedIn](https://www.linkedin.com/in/jean-de-dieu-mutabazi-85024920a) & [@Ishimwe Jean Baptiste. - LinkedIn](https://www.linkedin.com/in/hbapte) - feel free to contact us!
 
 
 <!-- Optional -->
