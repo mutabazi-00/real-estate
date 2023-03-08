@@ -48,7 +48,7 @@ List the ready features here:
 
 ## Project Status
 Project is  _in progress_ / 
-We are still working on it.
+We are planning to expand the idea in future 
 
 
 ## Room for Improvement.
@@ -72,7 +72,7 @@ To do:
 
 
 ## Contact
-Created by [LinkedIn@Mutabazi Jean de Dieu - LinkedIn](https://www.linkedin.com/in/jean-de-dieu-mutabazi-85024920a) & [@Ishimwe Jean Baptiste. - LinkedIn](https://www.linkedin.com/in/hbapte) - feel free to contact us!
+Created by [Mutabazi Jean de Dieu - LinkedIn](https://www.linkedin.com/in/jean-de-dieu-mutabazi-85024920a) & [Ishimwe Jean Baptiste. - LinkedIn](https://www.linkedin.com/in/hbapte) - feel free to contact us!
 
 
 <!-- Optional -->
