@@ -67,7 +67,7 @@ To do:
 
 ## Acknowledgements
 - This project was inspired by GorkCoder and JS Mastery
-- This project was based on [this tutorial](https://youtu.be/iqfxu4s6i4Y).
+- This project was based on [this tutorial](outu.be/iqfxu4s6i4Y).
 - Many thanks to ALX Africa
 
 
