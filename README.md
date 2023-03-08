@@ -3,7 +3,7 @@
 > Real Estate Rw is a web application built with the aim of helping people find their dream property to buy or rent.
 
 > Live demo [_here_](https://www.awesomescreenshot.com/video/14744642?key=6d01da484726d73106ec70c246edbacb).
-> Landing page [_here_](https://real-estate-rw-landing-page.vercel.app/).
+> Landing page [_here_](https://real-estate-rw-landing-page.vercel.app/). And blog post [_here_](https://hbapte.hashnode.dev/real-estate-rw).
 
 ## Table of Contents
 * [General Info](#general-information)
